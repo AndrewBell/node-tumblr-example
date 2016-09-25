@@ -1,0 +1,5 @@
+.idea/
+tumblr-bot.iml
+node_modules/
+*.log
+properties/properties.ini
